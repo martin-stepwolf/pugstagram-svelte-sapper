@@ -63,14 +63,11 @@
       outline: none;
       cursor: pointer;
     }
-    label {
-      display: none;
-    }
 </style>
 
 <div class="Comments">
     <div class="Comments-content">
-        {#each comments as comment (comments.id)}
+        {#each comments as comment (comment.id)}
         <div class="Comments-users">
             <h3>{comment.username}</h3>
             <span>{comment.text}</span>

@@ -66,7 +66,7 @@
         <div class="Stories-items">
             <div class="Stories-item">
                 <div class="Stories-item-box">
-                    <img src="http://lorempixel.com/200/100/cats/" alt="">
+                    <img src="https://i.imgur.com/SXBd7hu.jpg" alt="martin_stepwolf">
                 </div>
                 <h4>
                     martin_stepwolf 
