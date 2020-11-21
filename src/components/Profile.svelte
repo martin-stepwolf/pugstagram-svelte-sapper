@@ -1,3 +1,7 @@
+<script>
+  export let nickname, name;
+</script>
+
 <style>
     .Profile-content {
       display: flex;
@@ -29,8 +33,8 @@
             <img src="http://lorempixel.com/200/100/cats/" alt="">
         </div>
         <div class="Profile-info">
-            <h2>martin_stepwolf</h2>
-            <span>Mart&iacute;n Campos</span>
+            <h2>{nickname}</h2>
+            <span>{name}</span>
         </div>
     </div>
 </div>
