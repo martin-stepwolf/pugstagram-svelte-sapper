@@ -74,7 +74,7 @@
     <div class="Header-container">
         <div class="Header-content">
             <div class="Header-logo">
-                <h1 on:click={navigateHome}>Sveltagram2</h1>
+                <h1 on:click={navigateHome}>Pugstagram</h1>
             </div>
             <div class="Header-nav">
                 <ul>
